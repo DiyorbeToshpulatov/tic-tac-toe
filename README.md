@@ -30,6 +30,19 @@ A classic Tic Tac Toe game built with Vue.js, featuring a player vs AI mode with
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
 
+2. Navigate to the project directory:
+   ```bash
+   cd tic-tac-toe
+3. Install dependencies:
+   ```bash
+   npm install
+4. Run the app:
+   ```bash
+   npm run serve
+
+   
+
+
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
